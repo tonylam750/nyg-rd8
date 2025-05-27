@@ -1,8 +1,10 @@
-
+:root{
+    background: #F1FAEE;
+}
 body {
     margin: 0;
     text-align: center;
-    height: 100%;
+ 
 }
 
 img {
@@ -111,7 +113,7 @@ h3{
     background: #F1FAEE;
     padding-top: 50px;
     padding-bottom: 50px;
-    flex:1;
+   
    
 }
 
